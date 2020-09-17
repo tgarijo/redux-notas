@@ -1,2 +1,12 @@
 Thank's to Leo Medina - JavaScript Developer
 https://www.youtube.com/channel/UCtJq04Cs5C3Z_WJxa_gW6JA
+
+Clone:
+git clone https://github.com/tgarijo/redux-notas.git
+
+Install:
+cd redux-notas
+npm -i 
+
+Run:
+npm run start
